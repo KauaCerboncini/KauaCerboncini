@@ -1,4 +1,8 @@
-## Hi there 👋
+
+💻 Aprendendo todos os dias.
+🎯 Foco em Desenvolvimento Web | Full Stack
+🚀 Apaixonado por tecnologia, código e café.
+📚 Sempre em evolução.
 
 <!--
 **KauaCerboncini/KauaCerboncini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
