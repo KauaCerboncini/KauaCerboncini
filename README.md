@@ -1,7 +1,7 @@
 
 💻 Aprendendo todos os dias.
 🎯 Foco em Desenvolvimento Web | Full Stack
-🚀 Apaixonado por tecnologia, código e café.
+🚀 Apaixonado por tecnologia, código e design.
 📚 Sempre em evolução.
 
 <!--
